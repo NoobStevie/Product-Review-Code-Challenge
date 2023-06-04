@@ -1,6 +1,6 @@
 # Product-Review-Code-Challenge
 
-This code challenged has used ruby classes and methods that will let a user leave a review of a product.
+This code challenged has used ruby classes and methods that will allow a user to leave reviews of certain products.
 
 # Software Used:
 
