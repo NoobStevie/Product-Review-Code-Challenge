@@ -1,5 +1,5 @@
-require_relative './config/encironment'
-require 'sinatra/activerevord/rake'
+require_relative './config/environment'
+require 'sinatra/activerecord/rake'
 
 desc "Runs a Pry console"
 task :console do
